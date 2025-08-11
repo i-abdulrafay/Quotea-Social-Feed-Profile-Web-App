@@ -35,8 +35,8 @@ It features user authentication with JWT, user profiles, feed and post creation,
 ### Installation
 
 1. Clone the repo
-  git clone https://github.com/i-abdulrafay/quotea-social-feed-profile-app.git
-  cd quotea-social-feed-profile-app
+  git clone https://github.com/i-abdulrafay/Quotea-Social-Feed-Profile-Web-App.git
+  cd Quotea-Social-Feed-Profile-Web-App
   
 ### Usage
 
